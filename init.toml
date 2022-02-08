@@ -50,3 +50,9 @@ name = "lang#css"
 [[layers]]
 name = "lang#javascript"
 
+[[layers]]
+name = "lang#python"
+
+[[layers]]
+name "lang#nix"
+
